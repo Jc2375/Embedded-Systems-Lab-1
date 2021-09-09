@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="first_zync_design" location="/home/user/workspace/first_zync_design" platform="/home/user/workspace/first_zync_system_wrapper/export/first_zync_system_wrapper/first_zync_system_wrapper.xpfm" platformUID="xilinx:zybo::0.0(custom)" systemProject="first_zync_design_system" sysConfig="first_zync_system_wrapper" runtime="cpp" cpu="standalone_ps7_cortexa9_0" cpuInstance="ps7_cortexa9_0" os="standalone" mssSignature="db436a40d139ec087379e6425fb07f5e">
+  <configuration name="Debug" id="xilinx.gnu.armv7.exe.debug.1769803694">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+    <lastBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <configuration name="Release" id="xilinx.gnu.armv7.exe.release.141538075" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <template appTemplateName="hello_world"/>
+</sdkproject:SdkProject>
